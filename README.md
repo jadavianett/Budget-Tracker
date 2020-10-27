@@ -1,7 +1,7 @@
 # Budget-Tracker
 
 Hello! Welcome to my Budget Tracking application! Users can add expenses and deposits to their budgets to keep track of spending habits. This app is particularly useful for users that need to keep track of their expenses but don't have a constant data/internet connection. 
-The application can fully function offline and when it is brought back on online, offline entries are made to the tracker. 
+The application can fully function offline and when it is brought back online, the offline entries are made to the tracker. 
 
 ## Usage 
 In order to use this application, simply visit the deployed application at https://joa-budget-tracker.herokuapp.com/. 
